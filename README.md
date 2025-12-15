@@ -132,7 +132,8 @@ Frontend (React) <-> REST API <-> Backend (Spring Boot)
 **Atul Kumar Singh**
 
 * GitHub: [https://github.com/atulsingh2030](https://github.com/atulsingh2030)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: atulsingh2030@gmail.com
+* 
 
 ---
 
