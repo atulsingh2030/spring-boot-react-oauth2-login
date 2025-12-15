@@ -2,10 +2,6 @@
 Here’s a **150-character version**:  Full-stack app with **Spring Boot + React** enabling secure login via **Google, GitHub, and Facebook OAuth2** with profile display.
 Absolutely! Here’s a **complete, professional, and well-structured README** for your OAuth2 Social Login project. You can directly use it in your GitHub repo.
 
----
-
-# OAuth2 Social Login Application (Spring Boot + React)
-
 ## **Project Overview**
 
 This is a **full-stack web application** that enables users to securely log in using **popular third-party OAuth2 providers**: Google, GitHub, and Facebook. The backend is built with **Spring Boot** leveraging **Spring Security and OAuth2 protocols** for authentication and session management. The frontend is built with **React**, providing a **responsive and user-friendly interface** for login and profile display.
